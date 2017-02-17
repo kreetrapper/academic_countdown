@@ -1,7 +1,13 @@
 [
 	{
+		"venue": "ACL",
+		"area": "CL",
+		"deadline": "March 1, 2017 23:59 PST",
+		"link": "http://www.lrec-conf.org/lrec2018/"
+	},	
+	{
 		"venue": "LREC",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "25 September 2015 23:59 UTC+2",
 		"link": "http://www.lrec-conf.org/lrec2018/"
 	},	
@@ -97,47 +103,47 @@
 	},
 	{
 		"venue": "ACL (long)",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "18 March 2016 23:59 UTC-7",
 		"link": "http://acl2016.org/"
 	},
 	{
 		"venue": "ACL (short)",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "29 February 2016 23:59 UTC-7",
 		"link": "http://acl2016.org/"
 	},
 	{
 		"venue": "LREC",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "25 October 2015 23:59 UTC+2",
 		"link": "http://lrec2016.lrec-conf.org/en/"
 	},	
 	{
 		"venue": "RANLP",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "May 11, 2015 23:59 UTC-11",
 		"link": "http://lml.bas.bg/ranlp2015/cfpf.php"
 	},		
 	{
 		"venue": "Depling2015",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "10 April 2015 00:00 GMT+12",
 		"link": "http://depling.org/depling2015/"
 	},
 	{
 		"venue": "NLPCS 2015 : Natural Language Processing and Cognitive Science",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "15 April 2015, 23:59 GMT+01"
 	},
 	{
 		"venue": "GSCL",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "May 15, 2015 23:59 GMT+01"
 	},
 	{
 		"venue": "EMNLP",
-		"area": "Computational Linguistics",
+		"area": "CL",
 		"deadline": "May 15, 2015 23:59 UTC-11"
 	}
 ]
