@@ -1,4 +1,22 @@
 [
+    {
+        "venue": "eLex",
+        "area" : "CL",
+        "link" : "https://elex.link/elex2017/",
+        "deadline" : "Feb 15, 2017 23:59 GMT+1"
+    },
+    {   
+        "venue": "cmc-corpora",
+        "area" : "CMC",
+        "link" : "https://cmc-corpora2017.eurac.edu/",
+        "deadline" : "June 1, 2017 23:59 GMT+1"
+    },
+    {
+        "venue": "cmc-corpora",
+        "area" : "CMC",
+        "link" : "https://cmc-corpora2016.sciencesconf.org/",
+        "deadline" : "May 15, 2016 23:59 GMT+1"
+    },
 	{
 		"venue": "CONLL",
 		"area": "CL",
@@ -30,12 +48,6 @@
 		"deadline": "February 6, 2017 23:59 PDT"
 	},
 	{
-		"venue": "IJCAI",
-		"area": "AI",
-		"link": "http://ijcai-17.org",
-		"deadline": "February 19, 2017 23:59 UTC+11"
-	},
-	{
 		"venue": "IJCNLP",
 		"area": "CL",
 		"link": "http://ijcnlp2017.org",
@@ -54,18 +66,6 @@
 		"deadline": "May 16, 2017 23:59 UTC+11"
 	},
 	{
-		"venue": "WWW - paper",
-		"area": "Web",
-		"link": "http://www2017.com.au/call-for-papers/",
-		"deadline": "October 24, 2016 23:59 UTC-10"
-	},
-	{
-		"venue": "WWW - abstracts",
-		"area": "Web",
-		"link": "http://www2017.com.au/call-for-papers/",
-		"deadline": "October 19, 2016 23:59 UTC-10"
-	},
-	{
 		"venue": "AAAI - abstracts",
 		"area": "AI",
 		"link": "http://www.aaai.org/Conferences/AAAI/2017",
@@ -78,12 +78,6 @@
 		"deadline": "September 14, 2016 23:59 UTC-10"
 	},
 	{
-		"venue": "WSDM - paper",
-		"area": "Web",
-		"link": "http://www.wsdm-conference.org/2017/",
-		"deadline": "August 7, 2016 23:59 GMT-11"
-	},
-	{
 		"venue": "EACL 2017 - Short ",
 		"area": "CL",
 		"link": "http://eacl2017.org",
@@ -94,12 +88,6 @@
 		"area": "CL",
 		"link": "http://eacl2017.org",
 		"deadline": "September 30, 2016 23:59 GMT"
-	},
-	{
-		"venue": "WSDM - abstracts",
-		"area": "Web",
-		"link": "http://www.wsdm-conference.org/2017/",
-		"deadline": "July 31, 2016 23:59 GMT-11"
 	},
 	{
 		"venue": "SIGIR",
@@ -144,12 +132,6 @@
 		"link": "http://www.conll.org"
 	},
 	{
-		"venue": "IJCAI",
-		"area": "AI",
-		"deadline": "1/27/2016 23:59 UTC+12",
-		"link": "http://ijcai-16.org"
-	},
-	{
 		"venue": "ACL (long)",
 		"area": "Computational Linguistics",
 		"deadline": "18 March 2016 23:59 UTC-7",
@@ -179,12 +161,6 @@
 		"deadline": "May 11, 2015 23:59 UTC-11",
 		"link": "http://lml.bas.bg/ranlp2015/cfpf.php"
 	},		
-	{
-		"venue": "STATISTICAL LANGUAGE AND SPEECH PROCESSING (SLSP)",
-		"area": "Speech",
-		"deadline": "June 23, 2015 23:59 UTC+1",
-		"link": "http://grammars.grlmc.com/SLSP2015/"
-	},	
 	{
 		"venue": "Knowledge Capture (K-CAP)",
 		"area": "Data Mining",
@@ -238,22 +214,5 @@
 		"venue": "EMNLP",
 		"area": "Computational Linguistics",
 		"deadline": "May 15, 2015 23:59 UTC-11"
-	},
-	{
-		"venue": "Interspeech 2015",
-		"area": "Speech",
-		"deadline": "3/20/2015 23:59 GMT"
-	},
-	{
-		"venue": "WSDM - abstracts",
-		"area": "Web",
-		"link": "http://www.wsdm-conference.org/2016/",
-		"deadline": "July 10, 2015 00:00 GMT-11"
-	},
-	{
-		"venue": "WSDM - paper",
-		"area": "Web",
-		"link": "http://www.wsdm-conference.org/2016/",
-		"deadline": "July 17, 2015 00:00 GMT-11"
 	}
 ]
