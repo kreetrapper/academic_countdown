@@ -1,5 +1,11 @@
 [
 	{
+		"venue": "WAC-XI",
+		"area": "CL",
+		"deadline": "16 April 2017 23:59 GMT",
+		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
+	},	
+	{
 		"venue": "ACL",
 		"area": "CL",
 		"deadline": "March 1, 2017 23:59 PST",
