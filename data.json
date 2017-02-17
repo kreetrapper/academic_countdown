@@ -1,4 +1,10 @@
 [
+	{
+		"venue": "LREC",
+		"area": "Computational Linguistics",
+		"deadline": "25 September 2015 23:59 UTC+2",
+		"link": "http://www.lrec-conf.org/lrec2018/"
+	},	
     {
         "venue": "eLex",
         "area" : "CL",
