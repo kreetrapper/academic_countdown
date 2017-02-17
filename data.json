@@ -60,12 +60,6 @@
 		"deadline": "September 30, 2016 23:59 GMT"
 	},
 	{
-		"venue": "SIGIR",
-		"area": "IR",
-		"deadline": "January 17, 2017",
-		"link": "http://sigir.org/sigir2017"
-	},
-	{
 		"venue": "EMNLP",
 		"area": "CL",
 		"deadline": "June 3, 2016, 23:59 GMT-12",
@@ -77,12 +71,6 @@
 		"deadline": "May 8, 2016, 23:59 GMT-12",
 		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
 	},	
-	{
-		"venue": "StarSem",
-		"area": "CL",
-		"deadline": "April 18, 2016, 23:59 GMT+1",
-		"link": "https://sites.google.com/site/starsem2016/"
-	},
 	{
 		"venue": "COLING",
 		"area": "CL",
@@ -114,12 +102,6 @@
 		"link": "http://acl2016.org/"
 	},
 	{
-		"venue": "NAACL-HLT (long & short)",
-		"area": "Computational Linguistics",
-		"deadline": "06 January 2016 23:59 UTC-08",
-		"link": "http://naacl.org/naacl-hlt-2016/"
-	},
-	{
 		"venue": "LREC",
 		"area": "Computational Linguistics",
 		"deadline": "25 October 2015 23:59 UTC+2",
@@ -132,43 +114,15 @@
 		"link": "http://lml.bas.bg/ranlp2015/cfpf.php"
 	},		
 	{
-		"venue": "Knowledge Capture (K-CAP)",
-		"area": "Data Mining",
-		"deadline": "June 1, 2015 23:59 UTC-11",
-		"link": "http://www.k-cap2015.org/"
-	},	
-	{
 		"venue": "Depling2015",
 		"area": "Computational Linguistics",
 		"deadline": "10 April 2015 00:00 GMT+12",
 		"link": "http://depling.org/depling2015/"
 	},
 	{
-		"venue": "SPIRE",
-		"area": "Computational Linguistics",
-		"deadline": "1 May 2015 00:00 GMT+12",
-		"link": "http://www.dcs.kcl.ac.uk/events/spire2015/"
-	},
-	{
-		"venue": "EUROLAN 2015",
-		"area": "CompuDoctoral Consortium - Computational Linguistics",
-		"deadline": "17 May 2015 00:00 GMT+12"	
-	},
-	{
-		"venue": "10th Web as Corpus Workshop (WaC-10) @ ​eLex 2015",
-		"area": "Computational Linguistics",
-		"deadline": "24 April 2015 00:00 GMT-12"	
-	},
-	{
 		"venue": "NLPCS 2015 : Natural Language Processing and Cognitive Science",
 		"area": "Computational Linguistics",
 		"deadline": "15 April 2015, 23:59 GMT+01"
-	},
-	{
-		"venue": "SOCC 2015: ACM Symposium on Cloud Computing",
-		"area": "Distributed Systems",
-		"deadline": "24 April 2015, 20:59 PDT",
-		"link": "https://sites.google.com/site/acm2015socc/"
 	},
 	{
 		"venue": "GSCL",
