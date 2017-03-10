@@ -1,5 +1,17 @@
 [
 	{
+		"venue": "GSCL",
+		"area": "CL",
+		"deadline": "26 May 2017, 23:59 UTC+2",
+		"link": "http://gscl2017.dfki.de/callPapers.php"
+	},		
+	{
+		"venue": "CLARIN",
+		"area": "LT",
+		"deadline": "1 May 2017, 23:59 UTC+2",
+		"link": "https://www.clarin.eu/news/call-papers-clarin-annual-conference-2017"
+	},		
+	{
 		"venue": "CLiC-it",
 		"area": "CL",
 		"deadline": "15 July 2017, 23:59 UTC+2",
@@ -25,7 +37,7 @@
 	},	
     {
         "venue": "eLex",
-        "area" : "CL",
+        "area" : "LT",
         "link" : "https://elex.link/elex2017/",
         "deadline" : "Feb 15, 2017 23:59 GMT+1"
     },
