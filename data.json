@@ -1,5 +1,11 @@
 [
 	{
+		"venue": "EMNLP (System Demonstrations)",
+		"area": "CL",
+		"deadline": "May 14, 2017, 11:59pm PST",
+		"link": "https://www.softconf.com/emnlp2017/demos"
+	},
+	{
 		"venue": "GSCL",
 		"area": "CL",
 		"deadline": "26 May 2017, 23:59 UTC+2",
