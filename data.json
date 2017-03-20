@@ -1,43 +1,55 @@
 [
 	{
+		"venue": "ISA-13",
+		"area": "LT, LCI",
+		"deadline": "June 23, 2017, 23:59 UCT",
+		"link": "https://www.aclweb.org/portal/content/13th-joint-acl-iso-workshop-interoperable-semantic-annotation"
+	},
+	{
+		"venue": "NLP+CSS",
+		"area": "CMC, LT, Social Sciences",
+		"deadline": "May 2, 2017, 23:59 UCT",
+		"link": "https://www.softconf.com/acl2017/nlpandcss"
+	},
+	{
 		"venue": "EMNLP (System Demonstrations)",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "May 14, 2017, 11:59pm PST",
 		"link": "https://www.softconf.com/emnlp2017/demos"
 	},
 	{
 		"venue": "GSCL",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "26 May 2017, 23:59 UTC+2",
 		"link": "http://gscl2017.dfki.de/callPapers.php"
 	},		
 	{
 		"venue": "CLARIN",
-		"area": "LT",
+		"area": "LT, LTI",
 		"deadline": "1 May 2017, 23:59 UTC+2",
 		"link": "https://www.clarin.eu/news/call-papers-clarin-annual-conference-2017"
 	},		
 	{
 		"venue": "CLiC-it",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "15 July 2017, 23:59 UTC+2",
 		"link": "http://sag.art.uniroma2.it/clic2017"
 	},		
 	{
 		"venue": "WAC-XI",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "16 April 2017, 23:59 GMT",
 		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
 	},	
 	{
 		"venue": "ACL",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "March 1, 2017 23:59 PST",
 		"link": "http://acl2017.org/"
 	},	
 	{
 		"venue": "LREC",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "25 September 2017, 23:59 UTC+2",
 		"link": "http://www.lrec-conf.org/lrec2018/"
 	},	
@@ -61,13 +73,13 @@
     },
 	{
 		"venue": "CONLL",
-		"area": "CL",
+		"area": "LT",
 		"link": "http://www.conll.org",
 		"deadline": "April 23, 2017 23:59 PST"
 	},
 	{
 		"venue": "RANLP",
-		"area": "NLP",
+		"area": "LT",
 		"link": "http://lml.bas.bg/ranlp2017/dates.htm",
 		"deadline": "April 28, 2017 23:59 GMT+1"
 	},
@@ -79,101 +91,101 @@
 	},
 	{
 		"venue": "EACL SRW 2017",
-		"area": "CL",
+		"area": "LT",
 		"link": "https://sites.google.com/site/eaclsrw2017/",
 		"deadline": "November 27, 2016 23:59 GMT+1"
 	},
 	{
 		"venue": "ACL",
-		"area": "CL",
+		"area": "LT",
 		"link": "http://acl2017.org",
 		"deadline": "February 6, 2017 23:59 PDT"
 	},
 	{
 		"venue": "EACL 2017 - Short ",
-		"area": "CL",
+		"area": "LT",
 		"link": "http://eacl2017.org",
 		"deadline": "December 16, 2016 23:59 GMT"
 	},
 	{
 		"venue": "EACL 2017 - Long ",
-		"area": "CL",
+		"area": "LT",
 		"link": "http://eacl2017.org",
 		"deadline": "September 30, 2016 23:59 GMT"
 	},
 	{
 		"venue": "EMNLP",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "June 3, 2016, 23:59 GMT-12",
 		"link": "http://www.emnlp2016.net"
 	},
 	{
 		"venue": "WAC-X",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "May 8, 2016, 23:59 GMT-12",
 		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
 	},	
 	{
 		"venue": "COLING",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "July 15, 2016, 23:59 GMT-8",
 		"link": "http://coling2016.anlp.jp"
 	},
 	{
 		"venue": "COLING Demo",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "August 26, 2016, 23:59 GMT-8",
 		"link": "http://coling2016.anlp.jp"
 	},
 	{
 		"venue": "CONLL / SIGNLL",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "May 6, 2016, 23:59 GMT+2",
 		"link": "http://www.conll.org"
 	},
 	{
 		"venue": "ACL (long)",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "18 March 2016 23:59 UTC-7",
 		"link": "http://acl2016.org/"
 	},
 	{
 		"venue": "ACL (short)",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "29 February 2016 23:59 UTC-7",
 		"link": "http://acl2016.org/"
 	},
 	{
 		"venue": "LREC",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "25 October 2015 23:59 UTC+2",
 		"link": "http://lrec2016.lrec-conf.org/en/"
 	},	
 	{
 		"venue": "RANLP",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "May 11, 2015 23:59 UTC-11",
 		"link": "http://lml.bas.bg/ranlp2015/cfpf.php"
 	},		
 	{
 		"venue": "Depling2015",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "10 April 2015 00:00 GMT+12",
 		"link": "http://depling.org/depling2015/"
 	},
 	{
 		"venue": "NLPCS 2015 : Natural Language Processing and Cognitive Science",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "15 April 2015, 23:59 GMT+01"
 	},
 	{
 		"venue": "GSCL",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "May 15, 2015 23:59 GMT+01"
 	},
 	{
 		"venue": "EMNLP",
-		"area": "CL",
+		"area": "LT",
 		"deadline": "May 15, 2015 23:59 UTC-11"
 	}
 ]
