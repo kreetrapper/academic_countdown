@@ -2,37 +2,37 @@
 	{
 		"venue": "ISA-13",
 		"area": "LT, LCI",
-		"deadline": "June 23, 2017, 23:59 UCT",
+		"deadline": "June 23, 2017, 23:59 GMT+1",
 		"link": "https://www.aclweb.org/portal/content/13th-joint-acl-iso-workshop-interoperable-semantic-annotation"
 	},
 	{
 		"venue": "NLP+CSS",
 		"area": "CMC, LT, Social Sciences",
-		"deadline": "May 2, 2017, 23:59 UCT",
+		"deadline": "May 2, 2017, 23:59 GMT+1",
 		"link": "https://www.softconf.com/acl2017/nlpandcss"
 	},
 	{
 		"venue": "EMNLP (System Demonstrations)",
 		"area": "LT",
-		"deadline": "May 14, 2017, 11:59pm PST",
+		"deadline": "May 14, 2017, 23:59 PST",
 		"link": "https://www.softconf.com/emnlp2017/demos"
 	},
 	{
 		"venue": "GSCL",
 		"area": "LT",
-		"deadline": "26 May 2017, 23:59 UTC+2",
+		"deadline": "26 May 2017, 23:59 GMT+1",
 		"link": "http://gscl2017.dfki.de/callPapers.php"
 	},		
 	{
 		"venue": "CLARIN",
 		"area": "LT, LTI",
-		"deadline": "1 May 2017, 23:59 UTC+2",
+		"deadline": "1 May 2017, 23:59 GMT+1",
 		"link": "https://www.clarin.eu/news/call-papers-clarin-annual-conference-2017"
 	},		
 	{
 		"venue": "CLiC-it",
 		"area": "LT",
-		"deadline": "15 July 2017, 23:59 UTC+2",
+		"deadline": "15 July 2017, 23:59 GMT+1",
 		"link": "http://sag.art.uniroma2.it/clic2017"
 	},		
 	{
@@ -50,7 +50,7 @@
 	{
 		"venue": "LREC",
 		"area": "LT",
-		"deadline": "25 September 2017, 23:59 UTC+2",
+		"deadline": "25 September 2017, 23:59 GMT+1",
 		"link": "http://www.lrec-conf.org/lrec2018/"
 	},	
     {
