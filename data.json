@@ -1,18 +1,31 @@
 [
 	{
-		"venue": "ÖLT",
+		"venue": "Italian Journal of Computational Linguistics - Special Issue on 
+"Language and Learning Machines",
+		"area": "LT",
+		"deadline": "July 20, 2017, 23:59 GMT+1",
+		"link": "http://www.ai-lc.it/index.php?slab=rivista"
+	},	
+	{
+		"venue": "FedCSIS, Prague, CZ",
+		"area": "Computer Science, LT",
+		"deadline": "May 10, 2017, 23:59 GMT+1",
+		"link": "www.fedcsis.org"
+	},
+	{
+		"venue": "ÖLT, Klagenfurt, AT",
 		"area": "LING, DH",
 		"deadline": "July 31, 2017, 23:59 GMT+1",
 		"link": "https://conference.aau.at/event/120/"
 	},
 	{
-		"venue": "ISA-13",
+		"venue": "ISO-13, Montpellier, FR",
 		"area": "LT, LCI",
 		"deadline": "June 23, 2017, 23:59 GMT+1",
 		"link": "https://www.aclweb.org/portal/content/13th-joint-acl-iso-workshop-interoperable-semantic-annotation"
 	},
 	{
-		"venue": "NLP+CSS",
+		"venue": "NLP+CSS, Vancouver, Canada",
 		"area": "CMC, LT, Social Sciences",
 		"deadline": "May 2, 2017, 23:59 GMT+1",
 		"link": "https://www.softconf.com/acl2017/nlpandcss"
