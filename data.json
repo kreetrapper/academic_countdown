@@ -1,4 +1,10 @@
 [
+    {
+        "venue": "eLex (camera-ready paper)",
+        "area" : "LT",
+        "link" : "https://elex.link/elex2017/instructions-for-authors/",
+        "deadline" : "May 25, 2017 23:59 GMT+1"
+    },
 	{
 		"venue": "Italian Journal of Computational Linguistics - Special Issue on Language and Learning Machines",
 		"area": "LT",
