@@ -103,6 +103,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
   + "<div class=\"vd\">" + venue + "</div>"
+  + "<div class=\"ld\">" + dl.location + "</div>"
   + "<div class=\"ad\">" + dl.area + "</div>"
   + "<div class=\"td\"> Deadline: " + dl.deadline.toUTCString() + "</div>"
   + "<div class=\"wd\">" + warningString + "</div>"
