@@ -8,7 +8,7 @@
 	},
     {
         "venue": "eLex (camera-ready paper)",
-        "location": "Bolzano, IT",
+        "location": "NL",
         "area" : "LT",
         "link" : "https://elex.link/elex2017/instructions-for-authors/",
         "deadline" : "May 25, 2017 23:59 GMT+1"
@@ -49,6 +49,7 @@
 	},
 	{
 		"venue": "EMNLP (System Demonstrations)",
+		"location": "DK",
 		"area": "LT",
 		"deadline": "May 14, 2017, 23:59 PST",
 		"link": "https://www.softconf.com/emnlp2017/demos"
@@ -92,12 +93,14 @@
 	},	
     {
         "venue": "eLex",
+	"location": "NL",
         "area" : "LT",
         "link" : "https://elex.link/elex2017/",
         "deadline" : "Feb 15, 2017 23:59 GMT+1"
     },
     {   
         "venue": "cmc-corpora",
+	"location": "Bolzano, IT",
         "area" : "CMC",
         "link" : "https://cmc-corpora2017.eurac.edu/",
         "deadline" : "June 21, 2017 23:59 GMT+1"
