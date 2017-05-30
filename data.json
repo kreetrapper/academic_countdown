@@ -1,13 +1,14 @@
 [
 	{
 		"venue": "Workshop on Corpus-based Research in the Humanities (CRH)",
-		"location": "Vienna, Austria",
+		"location": "Vienna, AT",
 		"area": "DH, LCI, LT",
 		"deadline": "Oct 8, 2017, 23:59 GMT+1",
 		"link": "http://www.oeaw.ac.at/ac/crh2/"
 	},
     {
         "venue": "eLex (camera-ready paper)",
+        "location": "Bolzano, IT",
         "area" : "LT",
         "link" : "https://elex.link/elex2017/instructions-for-authors/",
         "deadline" : "May 25, 2017 23:59 GMT+1"
@@ -19,25 +20,29 @@
 		"link": "http://www.ai-lc.it/index.php?slab=rivista"
 	},	
 	{
-		"venue": "FedCSIS, Prague, CZ",
+		"venue": "FedCSIS",
+		"location": "Prague, CZ",
 		"area": "Computer Science, LT",
 		"deadline": "May 10, 2017, 23:59 GMT+1",
 		"link": "www.fedcsis.org"
 	},
 	{
-		"venue": "ÖLT, Klagenfurt, AT",
+		"venue": "ÖLT",
+		"location": "Klagenfurt, AT",
 		"area": "LING, DH",
 		"deadline": "July 31, 2017, 23:59 GMT+1",
 		"link": "https://conference.aau.at/event/120/"
 	},
 	{
-		"venue": "ISO-13, Montpellier, FR",
+		"venue": "ISO-13", 
+		"location": "Montpellier, FR",
 		"area": "LT, LCI",
 		"deadline": "June 23, 2017, 23:59 GMT+1",
 		"link": "https://www.aclweb.org/portal/content/13th-joint-acl-iso-workshop-interoperable-semantic-annotation"
 	},
 	{
-		"venue": "NLP+CSS, Vancouver, Canada",
+		"venue": "NLP+CSS",
+		"location": "Vancouver, Canada",
 		"area": "CMC, LT, Social Sciences",
 		"deadline": "May 2, 2017, 23:59 GMT+1",
 		"link": "https://www.softconf.com/acl2017/nlpandcss"
@@ -56,6 +61,7 @@
 	},		
 	{
 		"venue": "CLARIN",
+		"location": "Budapest, HR",
 		"area": "LT, LTI",
 		"deadline": "1 May 2017, 23:59 GMT+1",
 		"link": "https://www.clarin.eu/news/call-papers-clarin-annual-conference-2017"
