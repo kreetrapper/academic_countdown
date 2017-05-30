@@ -1,4 +1,11 @@
 [
+	{
+		"venue": "Workshop on Corpus-based Research in the Humanities (CRH)",
+		"location": "Vienna, Austria",
+		"area": "DH, LCI, LT",
+		"deadline": "Oct 8, 2017, 23:59 GMT+1",
+		"link": "http://www.oeaw.ac.at/ac/crh2/"
+	},
     {
         "venue": "eLex (camera-ready paper)",
         "area" : "LT",
@@ -87,7 +94,7 @@
         "venue": "cmc-corpora",
         "area" : "CMC",
         "link" : "https://cmc-corpora2017.eurac.edu/",
-        "deadline" : "June 1, 2017 23:59 GMT+1"
+        "deadline" : "June 21, 2017 23:59 GMT+1"
     },
     {
         "venue": "cmc-corpora",
