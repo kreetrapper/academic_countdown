@@ -1,5 +1,12 @@
 [
 	{
+		"venue": "Artificial Intelligence for Cultural Heritage (AI*CH)",
+		"location": "Bari, IT",
+		"area": "DH, AI, LT",
+		"deadline": "Sep 3, 2017, 23:59 GMT+1",
+		"link": "http://aiia2017.di.uniba.it/"
+	},
+	{
 		"venue": "Workshop on Corpus-based Research in the Humanities (CRH)",
 		"location": "Vienna, AT",
 		"area": "DH, LCI, LT",
@@ -69,6 +76,7 @@
 	},		
 	{
 		"venue": "CLiC-it",
+		"location": "Rome, IT",
 		"area": "LT",
 		"deadline": "15 July 2017, 23:59 GMT+1",
 		"link": "http://sag.art.uniroma2.it/clic2017"
@@ -87,6 +95,7 @@
 	},	
 	{
 		"venue": "LREC",
+		"location": "Miyazaki, JP",
 		"area": "LT",
 		"deadline": "25 September 2017, 23:59 GMT+1",
 		"link": "http://www.lrec-conf.org/lrec2018/"
