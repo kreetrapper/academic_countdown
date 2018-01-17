@@ -1,5 +1,12 @@
 [
 	{
+		"venue": "LRI Workshop",
+		"location": "Merano, Italy",
+		"area": "DH, Ling",
+		"deadline": "Feb 15, 2018, 23:59 GMT+1",
+		"link": "http://www.lri.eurac.edu/"
+	},
+	{
 		"venue": "CLARIN Annual Conference",
 		"location": "Pisa, Italy",
 		"area": "DH, LT",
