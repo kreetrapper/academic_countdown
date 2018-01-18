@@ -1,6 +1,6 @@
 [
 	{   
-        	"venue": "cmc-corpora (unannounced)",
+        	"venue": "cmc-corpora (CFP missing)",
 		"location": "17-18. Sep in Antwerp, BE",
         	"area" : "CMC",
         	"link" : "upcoming",
@@ -14,22 +14,30 @@
         	"deadline" : "Dec 31, 2018 23:59 GMT+1"
     	},
 	{   
-        	"venue": "CLIC-it (unannounced)",
+        	"venue": "CLIC-it (CFP missing)",
 		"location": "10-12. Dec in Torino, IT",
         	"area" : "LTI, LT",
         	"link" : "upcoming",
         	"deadline" : "Dec 31, 2018 23:59 GMT+1"
     	},
 	{   
-        	"venue": "EVALITA (unannounced)",
+        	"venue": "EVALITA (CFP missing)",
 		"location": "10-12. Dec in Torino, IT",
         	"area" : "LT",
         	"link" : "http://www.evalita.it/2018",
         	"deadline" : "Dec 31, 2018 23:59 GMT+1"
     	},
+	{   
+        	"venue": "EVALITA (CFP missing)",
+		"location": "10-12. Dec in Torino, IT",
+        	"area" : "LT",
+        	"link" : "http://www.evalita.it/2018",
+        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+    	},
+	
 	{
 		"venue": "LRI Workshop",
-		"location": "Merano, Italy",
+		"location": "7-8. Jun in Merano, Italy",
 		"area": "DH, Ling",
 		"deadline": "Feb 15, 2018, 23:59 GMT+1",
 		"link": "http://www.lri.eurac.edu/"
