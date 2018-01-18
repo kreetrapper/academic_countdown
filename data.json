@@ -1,4 +1,32 @@
 [
+	{   
+        	"venue": "cmc-corpora (unannounced)",
+		"location": "17-18. Sep in Antwerp, BE",
+        	"area" : "CMC",
+        	"link" : "upcoming",
+        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+    	},
+	{   
+        	"venue": "Digital Infrastructures for Research (DI4R) (unannounced)",
+		"location": "unknown",
+        	"area" : "LTI",
+        	"link" : "upcoming",
+        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+    	},
+	{   
+        	"venue": "CLIC-it (unannounced)",
+		"location": "10-12. Dec in Torino, IT",
+        	"area" : "LTI, LT",
+        	"link" : "upcoming",
+        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+    	},
+	{   
+        	"venue": "EVALITA (unannounced)",
+		"location": "10-12. Dec in Torino, IT",
+        	"area" : "LT",
+        	"link" : "http://www.evalita.it/2018",
+        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+    	},
 	{
 		"venue": "LRI Workshop",
 		"location": "Merano, Italy",
@@ -8,14 +36,14 @@
 	},
 	{
 		"venue": "CLARIN Annual Conference",
-		"location": "Pisa, Italy",
+		"location": "8-10. Oct in Pisa, Italy",
 		"area": "DH, LT",
 		"deadline": "Apr 16, 2018, 23:59 GMT+1",
 		"link": "https://www.clarin.eu/news/call-papers-clarin-annual-conference-2018"
 	},
 	{
-		"venue": "18th EURALEX International Congress",
-		"location": "Ljubljana, SI",
+		"venue": "EURALEX International Congress",
+		"location": "17-21. Jul in Ljubljana, SI",
 		"area": "DH, LT, Ling",
 		"deadline": "Dec 1, 2017, 23:59 GMT+1",
 		"link": "http://euralex2018.cjvt.si/call-for-papers/"
