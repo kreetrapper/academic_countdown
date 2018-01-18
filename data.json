@@ -1,5 +1,12 @@
 [
 	{   
+        	"venue": "VarDial",
+		"location": "20-25. Aug in Santa Fe, USA",
+        	"area" : "CMC, LT",
+        	"link" : "http://alt.qcri.org/vardial2018/",
+        	"deadline" : "May 18, 2018 23:59 MDT"
+    	},
+	{   
         	"venue": "cmc-corpora (CFP missing)",
 		"location": "17-18. Sep in Antwerp, BE",
         	"area" : "CMC",
