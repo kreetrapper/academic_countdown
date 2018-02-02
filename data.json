@@ -7,6 +7,13 @@
         	"deadline" : "May 18, 2018 23:59 MDT"
     	},
 	{   
+        	"venue": "GAL 2018",
+		"location": "11-14. Sep in Essen, DE",
+        	"area" : "Ling",
+        	"link" : "https://www.gal-2018.de/",
+        	"deadline" : "Apr 01, 2018 23:59 GMT+1"
+    	},
+	{   
         	"venue": "cmc-corpora (CFP missing)",
 		"location": "17-18. Sep in Antwerp, BE",
         	"area" : "CMC",
