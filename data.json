@@ -1,5 +1,12 @@
 [
 	{   
+        	"venue": "Grammar and Corpora (GAC)",
+		"location": "15-17. Nov in Paris, France",
+        	"area" : "LCI",
+        	"link" : "http://drehu.linguist.univ-paris-diderot.fr/gac-2018/?fichier=appel",
+        	"deadline" : "June 1, 2018 23:59 GMT+1"
+    	},
+	{   
         	"venue": "VarDial",
 		"location": "20-25. Aug in Santa Fe, USA",
         	"area" : "CMC, LT",
