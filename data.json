@@ -1,5 +1,12 @@
 [
 	{   
+        	"venue": "CoNLL",
+		"location": "31. Oct – 1. Nov in Bruxeles, Belgium",
+        	"area" : "LCI, LT",
+        	"link" : "http://www.conll.org/cfp-2018",
+        	"deadline" : "June 1, 2018 23:59 GMT+1"
+    	},
+	{   
         	"venue": "Grammar and Corpora (GAC)",
 		"location": "15-17. Nov in Paris, France",
         	"area" : "LCI",
