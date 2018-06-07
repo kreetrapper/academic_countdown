@@ -1,5 +1,12 @@
 [
 	{   
+        	"venue": "VIS4DH Workshop at IEEE VIS Conference",
+		"location": "21-26 Oct in Berlin, Germany",
+        	"area" : "Vis, DH",
+        	"link" : "http://vis4dh.dbvis.de/",
+        	"deadline" : "July 4, 2018 22:59 GMT+1"
+	},
+	{   
         	"venue": "CoNLL",
 		"location": "31. Oct – 1. Nov in Bruxeles, Belgium",
         	"area" : "LCI, LT",
@@ -35,11 +42,11 @@
         	"deadline" : "May 1, 2018 23:59 GMT+1"
     	},
 	{   
-        	"venue": "Digital Infrastructures for Research (DI4R) (unannounced)",
-		"location": "unknown",
+        	"venue": "Digital Infrastructures for Research (DI4R)",
+		"location": "9-11 Oct in Lisbon, Portugal",
         	"area" : "LTI",
-        	"link" : "upcoming",
-        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+        	"link" : "https://www.digitalinfrastructures.eu/",
+        	"deadline" : "June 29, 2018 22:59 GMT+1"
     	},
 	{   
         	"venue": "CLIC-it",
