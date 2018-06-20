@@ -1,84 +1,91 @@
 [
+		{
+		"venue": "ÖLT",
+		"location": "26-28 Oct in Innsbruck, AT",
+		"area": "LING, DH",
+		"deadline": "June 26, 2018, 23:59 GMT+1",
+		"link": "http://oelt2018.sprawi.at/abstracts/"
+	},
 	{   
         	"venue": "VIS4DH Workshop at IEEE VIS Conference",
-		"location": "21-26 Oct in Berlin, Germany",
+		"location": "21-26 Oct in Berlin, DE",
         	"area" : "Vis, DH",
         	"link" : "http://vis4dh.dbvis.de/",
         	"deadline" : "July 4, 2018 22:59 GMT+1"
 	},
 	{   
         	"venue": "CoNLL",
-		"location": "31. Oct – 1. Nov in Bruxeles, Belgium",
+		"location": "31 Oct–1 Nov in Bruxeles, BE",
         	"area" : "LCI, LT",
         	"link" : "http://www.conll.org/cfp-2018",
         	"deadline" : "June 1, 2018 23:59 GMT+1"
     	},
 	{   
         	"venue": "Grammar and Corpora (GAC)",
-		"location": "15-17. Nov in Paris, France",
+		"location": "15-17 Nov in Paris, FR",
         	"area" : "LCI",
         	"link" : "http://drehu.linguist.univ-paris-diderot.fr/gac-2018/?fichier=appel",
         	"deadline" : "June 1, 2018 23:59 GMT+1"
     	},
 	{   
         	"venue": "VarDial",
-		"location": "20-25. Aug in Santa Fe, USA",
+		"location": "20-25 Aug in Santa Fe, USA",
         	"area" : "CMC, LT",
         	"link" : "http://alt.qcri.org/vardial2018/",
         	"deadline" : "May 18, 2018 23:59 MDT"
     	},
 	{   
-        	"venue": "GAL 2018",
-		"location": "11-14. Sep in Essen, DE",
+        	"venue": "GAL",
+		"location": "11-14 Sep in Essen, DE",
         	"area" : "Ling",
         	"link" : "https://www.gal-2018.de/",
         	"deadline" : "Apr 01, 2018 23:59 GMT+1"
     	},
 	{   
         	"venue": "cmc-corpora",
-		"location": "17-18. Sep in Antwerp, BE",
+		"location": "17-18 Sep in Antwerp, BE",
         	"area" : "CMC",
         	"link" : "https://www.uantwerpen.be/en/conferences/cmc-social-media-2018/",
         	"deadline" : "May 1, 2018 23:59 GMT+1"
     	},
 	{   
         	"venue": "Digital Infrastructures for Research (DI4R)",
-		"location": "9-11 Oct in Lisbon, Portugal",
+		"location": "9-11 Oct in Lisbon, PT",
         	"area" : "LTI",
         	"link" : "https://www.digitalinfrastructures.eu/",
         	"deadline" : "June 29, 2018 22:59 GMT+1"
     	},
 	{   
-        	"venue": "CLIC-it",
-		"location": "10-12. Dec in Torino, IT",
+        	"venue": "CLiC-it",
+		"location": "10-12 Dec in Torino, IT",
         	"area" : "LTI, LT",
         	"link" : "http://clic2018.di.unito.it/en/call-for-papers/",
         	"deadline" : "July 15, 2018 23:59 GMT+1"
     	},
 	{   
         	"venue": "EVALITA",
-		"location": "10-12. Dec in Torino, IT",
+		"location": "10-12 Dec in Torino, IT",
         	"area" : "LT",
         	"link" : "http://www.evalita.it/2018/dates",
         	"deadline" : "Sep 3, 2018 23:59 GMT+1"
     	},
 	{
 		"venue": "LRI Workshop",
-		"location": "7-8. Jun in Merano, Italy",
+		"location": "7-8 Jun in Merano, Italy",
 		"area": "DH, Ling",
 		"deadline": "Feb 15, 2018, 23:59 GMT+1",
 		"link": "http://www.lri.eurac.edu/"
 	},
 	{
 		"venue": "CLARIN Annual Conference",
-		"location": "8-10. Oct in Pisa, Italy",
+		"location": "8-10 Oct in Pisa, Italy",
 		"area": "DH, LT",
 		"deadline": "Apr 16, 2018, 23:59 GMT+1",
 		"link": "https://www.clarin.eu/news/call-papers-clarin-annual-conference-2018"
 	},
 	{
-		"venue": "EURALEX International Congress",
-		"location": "17-21. Jul in Ljubljana, SI",
+		"venue": "EURALEX",
+		"location": "17-21 Jul in Ljubljana, SI",
 		"area": "DH, LT, Ling",
 		"deadline": "Dec 1, 2017, 23:59 GMT+1",
 		"link": "http://euralex2018.cjvt.si/call-for-papers/"
@@ -125,7 +132,7 @@
 		"link": "https://conference.aau.at/event/120/"
 	},
 	{
-		"venue": "ISO-13", 
+		"venue": "ISO", 
 		"location": "Montpellier, FR",
 		"area": "LT, LCI",
 		"deadline": "June 23, 2017, 23:59 GMT+1",
@@ -166,7 +173,7 @@
 		"link": "http://sag.art.uniroma2.it/clic2017"
 	},		
 	{
-		"venue": "WAC-XI",
+		"venue": "WAC",
 		"area": "LT",
 		"deadline": "16 April 2017, 23:59 GMT",
 		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
@@ -223,7 +230,7 @@
 		"deadline": "April 14, 2017 23:59 UTC-7"
 	},
 	{
-		"venue": "EACL SRW 2017",
+		"venue": "EACL SRW",
 		"area": "LT",
 		"link": "https://sites.google.com/site/eaclsrw2017/",
 		"deadline": "November 27, 2016 23:59 GMT+1"
@@ -235,13 +242,13 @@
 		"deadline": "February 6, 2017 23:59 PDT"
 	},
 	{
-		"venue": "EACL 2017 - Short ",
+		"venue": "EACL - Short ",
 		"area": "LT",
 		"link": "http://eacl2017.org",
 		"deadline": "December 16, 2016 23:59 GMT"
 	},
 	{
-		"venue": "EACL 2017 - Long ",
+		"venue": "EACL - Long ",
 		"area": "LT",
 		"link": "http://eacl2017.org",
 		"deadline": "September 30, 2016 23:59 GMT"
@@ -253,7 +260,7 @@
 		"link": "http://www.emnlp2016.net"
 	},
 	{
-		"venue": "WAC-X",
+		"venue": "WAC",
 		"area": "LT",
 		"deadline": "May 8, 2016, 23:59 GMT-12",
 		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
