@@ -56,11 +56,11 @@
         	"deadline" : "July 15, 2018 23:59 GMT+1"
     	},
 	{   
-        	"venue": "EVALITA (CFP missing)",
+        	"venue": "EVALITA",
 		"location": "10-12. Dec in Torino, IT",
         	"area" : "LT",
-        	"link" : "http://www.evalita.it/2018",
-        	"deadline" : "Dec 31, 2018 23:59 GMT+1"
+        	"link" : "http://www.evalita.it/2018/dates",
+        	"deadline" : "Sep 3, 2018 23:59 GMT+1"
     	},
 	{
 		"venue": "LRI Workshop",
