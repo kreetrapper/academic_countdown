@@ -1,5 +1,12 @@
 [
-		{
+	{
+		"venue": "Biennial Conference on Language, Data and Knowledge (LDK)",
+		"location": "20 May in Leipzig, DE",
+		"area": "LING, DH, LTI",
+		"deadline": "January 11, 2019, 23:59 GMT+1",
+		"link": "http://2019.ldk-conf.org/call-for-papers/"
+	},
+	{
 		"venue": "ÖLT",
 		"location": "26-28 Oct in Innsbruck, AT",
 		"area": "LING, DH",
