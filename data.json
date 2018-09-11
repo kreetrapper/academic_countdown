@@ -1,4 +1,12 @@
 [
+    {
+        "venue": "eLex",
+	"location": "1-3 Oct in Sintra, PT",
+        "area" : "LING, LT",
+        "deadline" : "Feb 15, 2019 23:59 GMT+1"
+        "link" : "https://elex.link/elex2019/",
+    },
+
 	{
 		"venue": "Biennial Conference on Language, Data and Knowledge (LDK)",
 		"location": "20 May in Leipzig, DE",
