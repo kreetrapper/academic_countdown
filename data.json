@@ -1,5 +1,12 @@
 [
     {
+        "venue": "LCR",
+	"location": "12-14 Sep in Warsaw, PL",
+        "area" : "LING, LT, LCI",
+        "deadline": "Jan 20, 2019 23:59 GMT+1",
+        "link": "https://lcr2019.ils.uw.edu.pl/"
+    },
+    {
         "venue": "eLex",
 	"location": "1-3 Oct in Sintra, PT",
         "area" : "LING, LT",
