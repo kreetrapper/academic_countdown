@@ -1,5 +1,12 @@
 [
     {
+        "venue": "Digital Access to Textual Cultural Heritage (DATeCH)",
+	"location": "8-10 May 2019, Brussels, BE",
+        "area" : "LT, DH, LING",
+        "deadline": "Dec 16, 2018 23:59 GMT+1",
+        "link": "http://datech.digitisation.eu/call-for-papers/"
+    },
+    {
         "venue": "Digital Humanities (DH)",
 	"location": "9-12 Jul in Utrecht, NL",
         "area" : "LT, DH, LING",
