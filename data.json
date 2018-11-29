@@ -1,5 +1,12 @@
 [
     {
+        "venue": "Workshop - Twin Talks: Understanding Collaboration in DH at DHN 2019",
+	"location": "5 Mar 2019, Copenhagen, DK",
+        "area" : "LT, DH, LING",
+        "deadline": "Jan 2, 2019 23:59 GMT+1",
+        "link": "https://www.clarin.eu/event/2019/twintalksdhn2019"
+    },
+    {
         "venue": "Digital Access to Textual Cultural Heritage (DATeCH)",
 	"location": "8-10 May 2019, Brussels, BE",
         "area" : "LT, DH, LING",
