@@ -1,5 +1,12 @@
 [
     {
+        "venue": "CLARIN Annual Conference 2019",
+	"location": "30 Sep - 2 Oct 2019, Leipzig, DE",
+        "area" : "DH, LT",
+        "deadline": "Apr 15, 2019 23:59 GMT+1",
+        "link": "https://www.clarin.eu/content/call-abstracts-clarin-annual-conference-2019"
+    },
+    {
         "venue": "LRI-Nachwuchsworkshop",
 	"location": "6-7 Jun 2019, Merano, IT",
         "area" : "DH, LING",
