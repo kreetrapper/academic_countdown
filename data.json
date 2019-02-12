@@ -1,4 +1,11 @@
 [
+	{   
+        	"venue": "CLiC-it",
+		"location": "13-15 Nov in Bari, IT",
+        	"area" : "LTI, LT",
+        	"link" : "",
+        	"deadline" : "June 30, 2019 23:59 GMT+1"
+    	},
     {
         "venue": "CLARIN Annual Conference 2019",
 	"location": "30 Sep - 2 Oct 2019, Leipzig, DE",
