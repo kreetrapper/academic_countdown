@@ -6,6 +6,13 @@
         	"link" : "",
         	"deadline" : "June 30, 2019 23:59 GMT+1"
     	},
+	{   
+        	"venue": "cmc-corpora",
+		"location": "9-10 Sep in Cergy-Pontoise (near Paris), FR",
+        	"area" : "CMC",
+        	"link" : "https://cmccorpora19.sciencesconf.org/resource/page/id/13",
+        	"deadline" : "May 1, 2019 23:59 GMT+1"
+	},	
     {
         "venue": "CLARIN Annual Conference 2019",
 	"location": "30 Sep - 2 Oct 2019, Leipzig, DE",
