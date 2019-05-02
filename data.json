@@ -1,5 +1,12 @@
 [
 	{   
+        	"venue": "DHd 2020",
+		"location": "2-6 Mar 2020 in Paderborn, DE",
+        	"area" : "DH",
+        	"link" : "https://dhd2020.de/call-for-papers/",
+        	"deadline" : "September 16, 2019 23:59 GMT+1"
+    	},
+	{   
         	"venue": "CLiC-it",
 		"location": "13-15 Nov in Bari, IT",
         	"area" : "LTI, LT",
@@ -11,7 +18,7 @@
 		"location": "9-10 Sep in Cergy-Pontoise (near Paris), FR",
         	"area" : "CMC",
         	"link" : "https://cmccorpora19.sciencesconf.org/resource/page/id/13",
-        	"deadline" : "May 15, 2019 23:59 GMT+1"
+        	"deadline" : "May 13, 2019 23:59 GMT+1"
 	},	
     {
         "venue": "CLARIN Annual Conference 2019",
