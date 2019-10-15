@@ -1,5 +1,12 @@
 [
 	{
+		"venue": "LREC",
+		"location": "11-16 May 2020 in Marseille, France",
+		"area": "LT",
+		"deadline": "November 25, 2019 23:59 PST",
+		"link": "https://lrec2020.lrec-conf.org/en/"
+	},	
+	{
 		"venue": "ACL",
 		"location": "5-10 July 2020 in Seattle, Washington, USA",
 		"area": "LT",
