@@ -1,5 +1,12 @@
 [
 	{
+		"venue": "1st INTERNATIONAL WORKSHOP ON LANGUAGE TECHNOLOGY PLATFORMS (IWLTP 2020)",
+		"location": "16 May 2020 at LREC in Marseille, France",
+		"area": "LT",
+		"deadline": "February 21, 2020 23:59 GMT+1",
+		"link": "https://www.european-language-grid.eu/iwltp-2020/call-for-papers"
+	},	
+	{
 		"venue": "CLARIN Annual Conference 2020",
 		"location": "5-7 October 2020 in Madrid, Spain",
 		"area": "DH, LT",
