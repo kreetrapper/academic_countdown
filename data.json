@@ -1,4 +1,11 @@
 [
+	{   
+        	"venue": "cmc-corpora",
+		"location": "24-25 September 2020 in Nijmegen, NL",
+        	"area" : "CMC",
+        	"link" : "https://applejack.science.ru.nl/cmc2020/calls",
+        	"deadline" : "May 10, 2020 23:59 CET"
+	},	
 	{
 		"venue": "1st INTERNATIONAL WORKSHOP ON LANGUAGE TECHNOLOGY PLATFORMS (IWLTP 2020)",
 		"location": "16 May 2020 at LREC in Marseille, France",
