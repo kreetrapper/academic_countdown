@@ -1,4 +1,11 @@
 [
+	{
+		"venue": "WAC",
+		"location":"16 May 2020 at LREC in Marseille, France",
+		"area": "LT",
+		"deadline": "16 Februrary 2020, 23:59 GMT-12",
+		"link": "https://www.sigwac.org.uk/wiki/WAC-XII"
+	},	
 	{   
         	"venue": "cmc-corpora",
 		"location": "24-25 September 2020 in Nijmegen, NL",
