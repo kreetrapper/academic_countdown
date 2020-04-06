@@ -1,11 +1,18 @@
 [
-    {
-        "venue": "LCR",
-	"location": "23-25 Sep in Padua, IT",
-        "area" : "LING, LT, LCI",
-        "deadline": "",
-        "link": "https://www.learnercorpusassociation.org/international-conference-for-learner-corpus-research-lcr-2021/"
-    },
+	{   
+        	"venue": "CLiC-it",
+		"location": "30 Nov - 02 Dec in Bologna, IT",
+        	"area" : "LTI, LT",
+        	"link" : "http://clic2020.ilc.cnr.it/",
+        	"deadline" : "July 15, 2020 23:59 GMT+1"
+    	},
+	{
+		"venue": "LCR",
+		"location": "23-25 Sep in Padua, IT",
+		"area" : "LING, LT, LCI",
+		"deadline": "",
+		"link": "https://www.learnercorpusassociation.org/international-conference-for-learner-corpus-research-lcr-2021/"
+	},
 	{
 		"venue": "WAC",
 		"location":"16 May 2020 at LREC in Marseille, France",
