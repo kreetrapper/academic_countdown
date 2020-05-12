@@ -1,4 +1,11 @@
 [
+        {   
+        	"venue": "ARANEA",
+		"location": "6-7 Nov in Bratislava, SK",
+        	"area" : "LTI, LT",
+        	"link" : "http://unesco.uniba.sk/aranea_2020/",
+        	"deadline" : "June 30, 2020 23:59 GMT+1"
+    	},
 	{   
         	"venue": "CLiC-it",
 		"location": "30 Nov - 02 Dec in Bologna, IT",
