@@ -1,5 +1,12 @@
 [
         {   
+        	"venue": "NLP4CALL",
+		"location": "25 Now in Gothenburg, SE (and online)",
+        	"area" : "LCI, LTI, LT",
+        	"link" : "https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2020",
+        	"deadline" : "September 23, 2020 23:59 GMT+1"
+    	},
+        {   
         	"venue": "ARANEA",
 		"location": "6-7 Nov in Bratislava, SK",
         	"area" : "LTI, LT",
