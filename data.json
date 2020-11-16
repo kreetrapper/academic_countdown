@@ -1,21 +1,28 @@
 [
         {   
+        	"venue": "eLex",
+		"location": "5-7 Jul 2021 in Brno, CZ (and online)",
+        	"area" : "LTI, LT",
+        	"link" : "https://elex.link/elex2021/index.php/call-for-papers/",
+        	"deadline" : "February 1, 2021 23:59 GMT+1"
+    	},
+	{   
         	"venue": "NLP4CALL",
-		"location": "25 Now in Gothenburg, SE (and online)",
+		"location": "25 Now 2020 in Gothenburg, SE (and online)",
         	"area" : "LCI, LTI, LT",
         	"link" : "https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2020",
         	"deadline" : "September 23, 2020 23:59 GMT+1"
     	},
         {   
         	"venue": "ARANEA",
-		"location": "6-7 Nov in Bratislava, SK",
+		"location": "6-7 Nov 2020 in Bratislava, SK",
         	"area" : "LTI, LT",
         	"link" : "http://unesco.uniba.sk/aranea_2020/",
         	"deadline" : "June 30, 2020 23:59 GMT+1"
     	},
 	{   
         	"venue": "CLiC-it",
-		"location": "30 Nov - 02 Dec in Bologna, IT",
+		"location": "30 Nov - 02 Dec 2020 in Bologna, IT",
         	"area" : "LTI, LT",
         	"link" : "http://clic2020.ilc.cnr.it/",
         	"deadline" : "July 15, 2020 23:59 GMT+1"
