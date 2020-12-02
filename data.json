@@ -1,18 +1,26 @@
 [
-        {   
+        {
+        	"venue": "NoDaLiDa",
+		"location": "31 May - 2 Jun 2021 in Reykjavik, IS",
+        	"area" : "LTI, LT",
+        	"link" : "http://nodalida2021.org",
+        	"deadline" : "February 8, 2021 23:59 GMT+1"
+    	},
+        {
         	"venue": "TSD",
 		"location": "6-9 Sep 2021 in Olomouc, CZ (and/or online)",
         	"area" : "LTI, LT",
         	"link" : "http://www.tsdconference.org/",
         	"deadline" : "April 18, 2021 23:59 GMT+1"
-    	},        {   
+    	},
+	{
         	"venue": "eLex",
 		"location": "5-7 Jul 2021 in Brno, CZ (and/or online)",
         	"area" : "LTI, LT",
         	"link" : "https://elex.link/elex2021/index.php/call-for-papers/",
         	"deadline" : "February 1, 2021 23:59 GMT+1"
     	},
-	{   
+	{
         	"venue": "NLP4CALL",
 		"location": "25 Nov 2020 in Gothenburg, SE (and online)",
         	"area" : "LCI, LTI, LT",
