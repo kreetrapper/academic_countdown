@@ -1,5 +1,12 @@
 [
         {
+        	"venue": "EMNLP",
+		"location": "7–11 Nov 2021 (online and somewhere)",
+        	"area" : "LTI, LT",
+        	"link" : "https://2021.emnlp.org/",
+        	"deadline" : "May 10, 2021 23:59 GMT+1"
+    	},
+        {
         	"venue": "NoDaLiDa",
 		"location": "31 May - 2 Jun 2021 in Reykjavik, IS",
         	"area" : "LTI, LT",
