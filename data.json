@@ -1,11 +1,19 @@
 [
 	{
+		"venue": "SPECIAL ISSUE ON LANGUAGE TECHNOLOGY PLATFORMS",
+		"location": "n/a",
+		"area": "infra",
+		"deadline": "31 August 2021, 23:59 GMT+2",
+		"link": "https://www.european-language-grid.eu/lre-si-ltp/"
+	},		
+	{
 		"venue": "CMC Corpora 2021",
 		"location": "28-29 October 2021 in Nijmegen, NL (hybrid)",
 		"area": "CMC",
 		"deadline": "13 June 2021, 23:59 GMT+2",
 		"link": "https://applejack.science.ru.nl/cmc2021/calls"
-	},		{
+	},		
+	{
 		"venue": "CLARIN Annual Conference (CAC) 2021",
 		"location": "27-29 September 2021 in Madrid, Spain (or online)",
 		"area": "DH, LT",
