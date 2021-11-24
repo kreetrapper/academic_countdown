@@ -1,6 +1,6 @@
 [
 	{
-		"venue": "LCR 2022",
+		"venue": "LREC 2022",
 		"location": "20-25 June 2022 in Marseille, FR",
 		"area": "LT",
 		"extent": "full papers from 4 pages to 8 pages",
@@ -8,11 +8,11 @@
 		"link": "https://lrec2022.lrec-conf.org/"
 	},		
 	{
-		"venue": "LREC",
-		"location": "n/a",
-		"area": "infra",
+		"venue": "LCR 2022",
+		"location": "22-24 September 2022 in Padua, IT",
+		"area": "LCR",
 		"extent": "abstract, 600 and 700 words"
-		"deadline": "31 August 2021, 23:59 GMT+2",
+		"deadline": "23 January 2022, 23:59 GMT+2",
 		"link": "http://www.maldura.unipd.it/lcr-2022/"
 	},		
 	{
