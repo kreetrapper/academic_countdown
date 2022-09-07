@@ -1,5 +1,13 @@
 [
 	{
+		"venue": "DH 2023",
+		"location": "10-14 July 2023 in Graz, AT",
+		"area": "DH",
+		"extent": "poster (500-750 words), short presentation (500-750 words), long presentation (750-1000 words) papers",
+		"deadline": "25 October 2022, 23:59 GMT-10",
+		"link": "https://dh2023.adho.org/?page_id=308"
+	},
+	{
 		"venue": "NLP4CALL 2022",
 		"location": "9 December 2022 in Louvain-la-Neuve, BE",
 		"area": "NLP, CALL",
