@@ -1,5 +1,14 @@
 [
 
+	
+	{
+		"venue": "Corpus Linguistics 2023",
+		"location": "3-6 July 2023 in Lancaster, UK",
+		"area": "Corpus Linguistics",
+		"extent": "abstracts of 150 (poster), 300 (paper) or 500 (panel) words",
+		"deadline": "6 January 2023, 23:59 GMT",
+		"link": "https://www.lancaster.ac.uk/cl2023/call-for-papers/"
+	},
 	{
 		"venue": "LTC '23",
 		"location": "21-23 April 2023 in Poznań, PL",
@@ -21,7 +30,7 @@
 		"location": "9 December 2022 in Louvain-la-Neuve, BE",
 		"area": "NLP, CALL",
 		"extent": "short (4-7 pages) or long (8-12 pages) papers",
-		"deadline": "12 October 2022, 23:59 UTC+1",
+		"deadline": "12 October 2022, 23:59 GMT+1",
 		"link": "https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2022#submission"
 	},
 	{
