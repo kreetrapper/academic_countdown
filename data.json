@@ -2,6 +2,14 @@
 
 	
 	{
+		"venue": "RANLP 2023",
+		"location": "4-6 September in Varna, BG",
+		"area": "NLP",
+		"extent": "???",
+		"deadline": "6 May 2023, 23:59 GMT",
+		"link": "https://ranlp.org/ranlp2023/"
+	},
+	{
 		"venue": "EuroSLA 2023",
 		"location": "30 August - 2 September in Birmingham, UK",
 		"area": "SLA",
