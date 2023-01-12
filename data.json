@@ -2,6 +2,14 @@
 
 	
 	{
+		"venue": "EuroSLA 2023",
+		"location": "30 August - 2 September in Birmingham, UK",
+		"area": "SLA",
+		"extent": "abstracts of 500 words (paper or poster)",
+		"deadline": "31 January 2023, 23:59 GMT",
+		"link": "https://www.birmingham.ac.uk/research/lacab/events/eurosla-32/first-call-for-papers-eurosla-32-2023.aspx"
+	},
+	{
 		"venue": "DARIAH Annual Event 2023",
 		"location": "6-9 June 2023 in Budapest, HU",
 		"area": "CH, DH",
