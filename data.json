@@ -2,6 +2,22 @@
 
 	
 	{
+		"venue": "DARIAH Annual Event 2023",
+		"location": "6-9 June 2023 in Budapest, HU",
+		"area": "CH, DH",
+		"extent": "abstracts of 500 words (paper or poster)",
+		"deadline": "1 February 2023, 23:59 GMT",
+		"link": "https://annualevent.dariah.eu/call-for-papers/"
+	},
+	{
+		"venue": "DH Benelux 2023",
+		"location": "31 May - 2 June 2023 in Brussels, BE",
+		"area": "DH",
+		"extent": "abstracts of 1000-1500 (long paper), 760-1000 (short paper) or 500-750 (poster or demonstration) words",
+		"deadline": "31 January 2023, 23:59 GMT",
+		"link": "https://2023.dhbenelux.org/call-for-papers/"
+	},
+	{
 		"venue": "Corpus Linguistics 2023",
 		"location": "3-6 July 2023 in Lancaster, UK",
 		"area": "Corpus Linguistics",
