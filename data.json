@@ -2,6 +2,22 @@
 
 	
 	{
+		"venue": "CLARIN Annual Conference 2023",
+		"location": "16-18 October in Leuven, BE",
+		"area": "LT",
+		"extent": "extended abstracts, 3-4 pages",
+		"deadline": "14 April 2023, 23:59 GMT+2",
+		"link": "https://www.clarin.eu/content/call-abstracts-clarin-annual-conference-2023"
+	},
+	{
+		"venue": "12th NLP4CALL",
+		"location": "May 22, 2023 in Tórshavn, Faroe Islands",
+		"area": "NLP",
+		"extent": "8-12 pages (long paper); 4-7 pages (short or demo paper)",
+		"deadline": "3 April 2023, 23:59 GMT+2",
+		"link": "https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2023#submission"
+	},
+	{
 		"venue": "RANLP 2023",
 		"location": "4-6 September in Varna, BG",
 		"area": "NLP",
