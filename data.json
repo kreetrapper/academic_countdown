@@ -1,6 +1,14 @@
 [
 
 	{
+		"venue": "Fourth Biennial Conference on Language, Data and Knowledge (LDK 2023)",
+		"location": "14-15 September in Austria, AT",
+		"area": "LT",
+		"extent": "4-6 pages (short paper); 9-12 pages (long paper)",
+		"deadline": "10 March 2023, 23:59 GMT+2",
+		"link": "http://2023.ldk-conf.org/"
+	},
+	{
 		"venue": "CMC-Corpora 2023",
 		"location": "14-15 September in Mannheim, DE",
 		"area": "CMC",
