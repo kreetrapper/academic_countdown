@@ -1,6 +1,14 @@
 [
 
 	{
+		"venue": "LREC-COLING 2024",
+		"location": "20-25 May 2024 in Torino, IT",
+		"area": "LT",
+		"extent": "8 pages (long paper, position paper), 4 pages (short paper)",
+		"deadline": "13 October 2023, 23:59 UTC-12",
+		"link": "https://lrec-coling-2024.lrec-conf.org/1stCfP-LRECCOLING2024.html"
+	},
+	{
 		"venue": "International Data Week 2023",
 		"location": "23-26 October in Salzburg, AT",
 		"area": "LT",
