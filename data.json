@@ -1,6 +1,14 @@
 [
 
 	{
+		"venue": "DHd 2024",
+		"location": "26 February - 2 March 2024 in Passau, DE",
+		"area": "DH",
+		"extent": "1500 - 2000 words (paper), 500-750 words (poster)",
+		"deadline": "19 July, 23:59 CEST",
+		"link": "https://dhd2024.dig-hum.de/call-for-papers/"
+	},
+	{
 		"venue": "LREC-COLING 2024",
 		"location": "20-25 May 2024 in Torino, IT",
 		"area": "LT",
