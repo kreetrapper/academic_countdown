@@ -1,6 +1,14 @@
 [
 
 	{
+		"venue": "DGfS 2024 - Poster Session Computerlinguistik",
+		"location": "28 February - 1 March 2024 in Bochum, DE",
+		"area": "CL",
+		"extent": "One page abstract (A4)",
+		"deadline": "30 September 2023, 23:59 UTC+1",
+		"link": "https://list.elra.info/mailman3/hyperkitty/list/corpora@list.elra.info/thread/LB2L5GOSIIME6OKNOKF2NM7ZYCU4GCIT/"
+	},
+	{
 		"venue": "DHd 2024",
 		"location": "26 February - 2 March 2024 in Passau, DE",
 		"area": "DH",
