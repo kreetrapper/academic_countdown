@@ -1,6 +1,22 @@
 [
 
 	{
+		"venue": "DH 2024",
+		"location": "5-9 August 2024 in Arlington/Washington D.C., USA",
+		"area": "DH",
+		"extent": "abstracts of 1250-1500 (long paper), 750-1000 (short paper) or 500-750 (poster) words"",
+		"deadline": "5 December 2023, 23:59 UTC-5",
+		"link": "https://dh2024.adho.org/cfp/"
+	},
+	{
+		"venue": "Twittertagung",
+		"location": "19 - 20 March 2024 in Frankfurt, DE",
+		"area": "CMC, infra",
+		"extent": "One page abstract (500 words)",
+		"deadline": "15 November 2023, 23:59 UTC+1",
+		"link": "https://www.dnb.de/EN/Professionell/Sammeln/Sammlung_Websites/Twittertagung/twittertagung2024.html"
+	},
+	{
 		"venue": "DGfS 2024 - Poster Session Computerlinguistik",
 		"location": "28 February - 1 March 2024 in Bochum, DE",
 		"area": "CL",
