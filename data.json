@@ -1,12 +1,19 @@
 [
-
+	{
+		"venue": "LCR 2024",
+		"location": "26-28 September 2024 in Tartu, EE",
+		"area": "lcr",
+		"extent": "short summary (<300 words)",
+		"deadline": "22 January 2024",
+		"link": "https://lcr2024.ut.ee/call-for-papers"
+	},
 	{
 		"venue": "DARIAH Annual Event 2024",
 		"location": "18-21 June 2024 in Lisbon, PT",
 		"area": "infra",
 		"extent": "tbd",
-		"deadline": "tbd (cfp opens on 6.12.23)",
-		"link": "tbd"
+		"deadline": "4 February 2024",
+		"link": "https://annualevent.dariah.eu/"
 	},
 	{
 		"venue": "DH 2024",
