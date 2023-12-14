@@ -1,5 +1,29 @@
 [
 	{
+		"venue": "CMC-Corpora 2024",
+		"location": "5-6 September 2024 in Nice, FR",
+		"area": "CMC",
+		"extent": "tbd",
+		"deadline": "15 April 2024, 23:59 GMT+2",
+		"link": "https://cmc-corpora-nice.sciencesconf.org/"
+	},
+	{
+		"venue": "LD&A 2024",
+		"location:" "4-6 September 2024 in Berlin, DE",
+		"area": "langdoc, RDM",
+		"extent": "300 word abstract",
+		"deadline": "1 April 2024, 23:59 GMT+2",
+		"link": "https://langdoc.org/call-for-papers/"
+	},
+	{
+		"venue": "CLARIN Annual Conference 2024",
+		"location": "15-17 October in tbd, ES",
+		"area": "LT",
+		"extent": "extended abstracts, 3-4 pages",
+		"deadline": "28 April 2024, 23:59 GMT+2 (tbc)",
+		"link": "https://www.clarin.eu/ (tbc)"
+	},
+	{
 		"venue": "LCR 2024",
 		"location": "26-28 September 2024 in Tartu, EE",
 		"area": "lcr",
