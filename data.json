@@ -1,5 +1,13 @@
 [
 	{
+		"venue": "NLP4CALL 2024",
+		"location": "25-26 October 2024 in Rennes, FR",
+		"area": "NLP,CALL",
+		"extent": "8-12 pages (long paper); 4-7 pages (short or demo paper)",
+		"deadline": "30 June 2024, 23:59 GMT+2",
+		"link": "https://nlp4call2024.sciencesconf.org/"
+	},
+	{
 		"venue": "CMC-Corpora 2024",
 		"location": "5-6 September 2024 in Nice, FR",
 		"area": "CMC",
