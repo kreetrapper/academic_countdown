@@ -1,10 +1,18 @@
 [
 	{
+		"venue": "IDCC 2025",
+		"location": "17-19 February 2025 in Den Haag, NL",
+		"area": "Curation, Infrastructure",
+		"extent": "5-5 pages/2000-2500 words (talk), 300-500 words (lightning talk), 500 words (poster)",
+		"deadline": "26 July 2024, 23:59 GMT+2",
+		"link": "https://dcc.ac.uk/events/idcc25/call-for-submissions"
+	},
+	{
 		"venue": "NLP4CALL 2024",
 		"location": "25-26 October 2024 in Rennes, FR",
 		"area": "NLP,CALL",
 		"extent": "8-12 pages (long paper); 4-7 pages (short or demo paper)",
-		"deadline": "30 June 2024, 23:59 GMT+2",
+		"deadline": "7 July 2024, 23:59 GMT+2",
 		"link": "https://nlp4call2024.sciencesconf.org/"
 	},
 	{
