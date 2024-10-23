@@ -1,5 +1,21 @@
 [
 		{
+		"venue": "DARIAH Annual Event 2025",
+		"location": "17-20 June 2024 in Göttingen, DE",
+		"area": "infra",
+		"extent": "abstracts of 500 (paper, poster) or 750 (panel) words",
+		"deadline": "4 February 2025 (to be confirmed)",
+		"link": "https://annualevent.dariah.eu/"
+	},
+	{
+		"venue": "DH 2025",
+		"location": "14-18 July 2025 in Lisbon, PT",
+		"area": "DH",
+		"extent": "abstracts of 1250-1500 (long paper), 750-1000 (short paper) or 500-750 (poster) words",
+		"deadline": "1 December 2024, 23:59 GMT",
+		"link": "https://dh2025.adho.org/call-for-proposals/"
+	},
+	{
 		"venue": "DHd 2025",
 		"location": "3-7 March 2025 in Bielefeld, DE",
 		"area": "DH",
