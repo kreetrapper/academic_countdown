@@ -1,11 +1,43 @@
 [
 		{
+		"venue": "Text+ WS @ DHd 2025",
+		"location": "3-4 March 2025 in Bielefeld, DE",
+		"area": "DH",
+		"extent": "short abstracts of 500 words",
+		"deadline": "19 February 2025 23:59 GMT+1",
+		"link": "https://dhd-blog.org/?p=21852"
+	},
+		{
+		"venue": "CLARIN Annual Conferene 2025",
+		"location": "30 September - 2 October in Vienna, AT",
+		"area": "infra",
+		"extent": "extended abstracts, 3-4 pages",
+		"deadline": "4 April 2025",
+		"link": "https://www.clarin.eu/content/call-extended-abstracts-clarin-annual-conference-2025"
+	},
+	{
+		"venue": "CMC-Corpora 2025",
+		"location": "4-5 September 2025 in Bayreuth, DE",
+		"area": "CMC",
+		"extent": "2-4 (max 6) pages (papers); 500 words (posters)",
+		"deadline": "15 May 2025, 23:59 GMT+2",
+		"link": "https://www.cmc2025.uni-bayreuth.de/en/deadlines-and-submission/index.html"
+	},
+	{
+		"venue": "LDK 2025",
+		"location": "10-11 September 2025 in Napoli, IT",
+		"area": "infra",
+		"extent": "4-6 pages (short papers) or 9-12 pages (long papers)",
+		"deadline": "6 March 2025",
+		"link": "https://2025.ldk-conf.org/call-for-papers/"
+	},	
+	{
 		"venue": "DARIAH Annual Event 2025",
-		"location": "17-20 June 2024 in Göttingen, DE",
+		"location": "17-20 June 2025 in Göttingen, DE",
 		"area": "infra",
 		"extent": "abstracts of 500 (paper, poster) or 750 (panel) words",
-		"deadline": "4 February 2025 (to be confirmed)",
-		"link": "https://annualevent.dariah.eu/"
+		"deadline": "28 February 2025",
+		"link": "https://annualevent.dariah.eu/call-for-papers/"
 	},
 	{
 		"venue": "DH 2025",
