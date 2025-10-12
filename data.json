@@ -1,7 +1,15 @@
 [
 		{
+		"venue": "LD&A 2026",
+		"location": "9 - 11 September 2026 in Berlin, DE",
+		"area": "Language Documentation",
+		"extent": "abstract (details unclear)",
+		"deadline": "1 March 2026, 23:59 UTC+1",
+		"link": "https://langdoc.org/lda26/"
+	},
+		{
 		"venue": "Twittertagung 2.0 a.k.a. Social Media Access Days",
-		"location": "17 - 19 March 2025 in Frankfurt, DE",
+		"location": "17 - 19 March 2026 in Frankfurt, DE",
 		"area": "CMC, infra",
 		"extent": "One page abstract (500 words)",
 		"deadline": "31 October 2025, 23:59 UTC+1",
