@@ -1,5 +1,21 @@
 [
 		{
+		"venue": "CMC-Corpora 2026",
+		"location": "27-28 August 2026 in Oulu, FI",
+		"area": "CMC",
+		"extent": "2-4 (max 6) pages (papers); 500 words (posters)",
+		"deadline": "15 April 2026, 23:59 GMT+3",
+		"link": "https://cmc2026.org/call/"
+	},
+	{
+		"venue": "DARIAH Annual Event 2026",
+		"location": "26-29 May 2026 in Rome, IT",
+		"area": "infra",
+		"extent": "abstracts of 500 (paper, poster) or 750 (panel) words",
+		"deadline": "22 December 2025",
+		"link": "https://annualevent.dariah.eu/call-for-papers/"
+	},
+		{
 		"venue": "LCR 2026",
 		"location": "17 - 19 September 2026 in Prague, CZ",
 		"area": "LCR",
