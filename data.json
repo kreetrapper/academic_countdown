@@ -1,5 +1,13 @@
 [
 		{
+		"venue": "CLARIN Annual Conferene 2026",
+		"location": "29 September - 1 October in Brighton, UK",
+		"area": "infra",
+		"extent": "extended abstracts, 3-4 pages",
+		"deadline": "6 April 2026",
+		"link": "https://www.clarin.eu/content/call-extended-abstracts-clarin-annual-conference-2026"
+	},
+	{
 		"venue": "CMC-Corpora 2026",
 		"location": "27-28 August 2026 in Oulu, FI",
 		"area": "CMC",
